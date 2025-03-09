@@ -1,0 +1,32 @@
+.navbar{
+    background-color: rgba(0, 0, 0);
+    color: white;
+}
+
+
+.date_container{
+    height:300px;
+    border-radius: 10px;
+}
+
+.date-img:active{
+    box-shadow: 3px 2px 3px 3px rgb(196, 193, 193);
+
+}
+
+.footer-section{
+    max-width: 110%;
+    height: 200px;
+    background-color: rgb(39, 1, 41);
+}
+
+.signup-section{
+    width: 30%;
+    border-radius: 10px;
+    background-color: rgb(69, 164, 243);
+    color: white;
+}
+
+.signup-section:hover{
+    box-shadow: 1px 1px 1px 1px rgb(189, 185, 185);
+}
